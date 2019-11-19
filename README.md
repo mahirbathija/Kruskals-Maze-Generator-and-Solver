@@ -1,6 +1,6 @@
 # Kruskals-Maze-Generator-and-Solver
 
-As part of my CSE datastructures and algorithms class at the University of Washington, my partner and I worked on this 
+As part of my CSE datastructures and algorithms class at the University of Washington, I worked on this 
 maze generator and solver. 
 
 Datastructures Implemented: ArrayDisjointSet, ArrayHeap, ChainedHashSet, DoubleLinkedList, KVPair, ArrayDictionary,
